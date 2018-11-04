@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537018257 source:c:\users\windows 8\desktop\stefano\informatica\c++\minesweeper\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"iocolor.h"
+
+1516310356 c:\users\windows 8\desktop\stefano\informatica\c++\minesweeper\iocolor.h
+
+1537018258 source:e:\stefano\informatica\roba seria\minesweeper\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"iocolor.h"
+
+1516310356 e:\stefano\informatica\roba seria\minesweeper\iocolor.h
+
